@@ -34,7 +34,8 @@
 ![Screenshot 2024-11-27 112655](https://github.com/user-attachments/assets/62a8ad68-a551-409e-ae53-fa28ced1de1d)
 
 ### Output:
-![Screenshot 2024-11-27 111534](https://github.com/user-attachments/assets/06102b2b-42e7-473d-8414-052a1e67c934)
+
+![Screenshot 2024-11-27 113342](https://github.com/user-attachments/assets/1c3700fe-8ff6-49de-b039-8795a3603fe1)
 
 
 ### Name:
