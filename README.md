@@ -33,12 +33,17 @@
 ![Screenshot 2024-11-27 112655](https://github.com/user-attachments/assets/62a8ad68-a551-409e-ae53-fa28ced1de1d)
 
 ### Output:
+FUSION: 
 
 ![Screenshot 2024-11-27 113342](https://github.com/user-attachments/assets/1c3700fe-8ff6-49de-b039-8795a3603fe1)
 
+IN CURA:
 
-### Name:
-### Register Number:
+![Screenshot 2024-12-05 133952](https://github.com/user-attachments/assets/344c88c3-f228-4e8c-acde-4fc9fea3fe6e)
+
+
+### Name:MAGESH BOOPATHI .M
+### Register Number:2490855
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
